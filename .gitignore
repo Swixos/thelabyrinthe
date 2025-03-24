@@ -1,0 +1,47 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Crash and debug files
+sysinfo.txt
+
+# Rider
+.idea/
+*.sln.iml
+
+# VS / VSCode
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Mac / Linux / Windows system files
+.DS_Store
+*.apk
+*.keystore
+*.pdb
+*.mdb
+*.exe
+*.dll
+
+# Git LFS placeholder
+*.psd
+*.fbx
+*.mp4
+*.wav
+*.ogg
+*.png
+
+# Autres
+Builds/
